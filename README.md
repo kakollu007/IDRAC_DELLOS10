@@ -1,2 +1,2 @@
 # IDRAC_DELLOS10
-Automating IDRAC , DELLOS10 , VXRAIL Tasks.
+Automate IDRAC , DELLOS10 , VXRAIL Tasks.
